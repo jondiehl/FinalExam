@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FC60C3A0190D910900E92F3B"
-               BuildableName = "Final Test.app"
+               BuildableName = "FinalExam.app"
                BlueprintName = "FinalExam"
                ReferencedContainer = "container:FinalExam.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FC60C3C4190D910A00E92F3B"
-               BuildableName = "Final TestTests.xctest"
+               BuildableName = "FinalExamTests.xctest"
                BlueprintName = "FinalExamTests"
                ReferencedContainer = "container:FinalExam.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC60C3A0190D910900E92F3B"
-            BuildableName = "Final Test.app"
+            BuildableName = "FinalExam.app"
             BlueprintName = "FinalExam"
             ReferencedContainer = "container:FinalExam.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC60C3A0190D910900E92F3B"
-            BuildableName = "Final Test.app"
+            BuildableName = "FinalExam.app"
             BlueprintName = "FinalExam"
             ReferencedContainer = "container:FinalExam.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "FC60C3A0190D910900E92F3B"
-            BuildableName = "Final Test.app"
+            BuildableName = "FinalExam.app"
             BlueprintName = "FinalExam"
             ReferencedContainer = "container:FinalExam.xcodeproj">
          </BuildableReference>
