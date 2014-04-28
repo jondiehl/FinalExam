@@ -59,17 +59,17 @@
     // Dispose of any resources that can be recreated.
 }
 
-//- (IBAction)lChanged:(id)sender {
-//    int lIntVal = self.lSlider.value * 10;
-//    self.spirographView.l = lIntVal/10.0;
-//    [self.spirographView setNeedsDisplay];
-//}
-//
-//- (IBAction)kChanged:(id)sender {
-//    int kIntVal = self.kSlider.value * 10;
-//    self.spirographView.k = kIntVal/10.0;
-//    [self.spirographView setNeedsDisplay];
-//}
+- (IBAction)lChanged:(id)sender {
+    int lIntVal = self.lSlider.value * 10;
+    self.spirographView.l = lIntVal/10.0;
+    [self.spirographView setNeedsDisplay];
+}
+
+- (IBAction)kChanged:(id)sender {
+    int kIntVal = self.kSlider.value * 10;
+    self.spirographView.k = kIntVal/10.0;
+    [self.spirographView setNeedsDisplay];
+}
 
 - (IBAction)redraw:(id)sender {
     int kIntVal = self.kSlider.value * 10;

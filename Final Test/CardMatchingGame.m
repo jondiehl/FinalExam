@@ -40,7 +40,7 @@
     }
     return chosenCard;
 }
-- (void) match:(Card *)card1:(Card *)card2{
+- (void) match:(Card *)card1 :(Card *)card2{
     _score += [card1 match:card2];
     card1.matched = YES;
     card2.matched = YES;

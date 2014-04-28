@@ -267,7 +267,7 @@
                     </connections>
                 </rotationGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="676" y="-142"/>
+            <point key="canvasLocation" x="597" y="-120"/>
         </scene>
         <!--Test 1b View Controller - Card Game-->
         <scene sceneID="e7r-Pa-efy">

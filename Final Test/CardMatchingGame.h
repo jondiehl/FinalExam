@@ -17,10 +17,10 @@
 
 @property (readonly, nonatomic) NSInteger score;
 
-- (id) initWithCardCount:(NSUInteger)count: (Deck *)deck;
+- (id) initWithCardCount:(NSUInteger)count : (Deck *)deck;
 
 - (Card *) chooseCardAtIndex:(NSUInteger)index;
 
-- (void) match:(Card *)card1:(Card *)card2;
+- (void) match:(Card *)card1 :(Card *)card2;
 
 @end

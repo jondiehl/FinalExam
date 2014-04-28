@@ -14,14 +14,34 @@
 		FC60C3B1190D910900E92F3B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3B0190D910900E92F3B /* main.m */; };
 		FC60C3B5190D910900E92F3B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3B4190D910900E92F3B /* AppDelegate.m */; };
 		FC60C3B8190D910900E92F3B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC60C3B6190D910900E92F3B /* Main.storyboard */; };
-		FC60C3BB190D910900E92F3B /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3BA190D910900E92F3B /* FirstViewController.m */; };
-		FC60C3BE190D910900E92F3B /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3BD190D910900E92F3B /* SecondViewController.m */; };
 		FC60C3C0190D910900E92F3B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC60C3BF190D910900E92F3B /* Images.xcassets */; };
 		FC60C3C7190D910A00E92F3B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC60C3C6190D910A00E92F3B /* XCTest.framework */; };
 		FC60C3C8190D910A00E92F3B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC60C3A4190D910900E92F3B /* Foundation.framework */; };
 		FC60C3C9190D910A00E92F3B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC60C3A8190D910900E92F3B /* UIKit.framework */; };
 		FC60C3D1190D910A00E92F3B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FC60C3CF190D910A00E92F3B /* InfoPlist.strings */; };
 		FC60C3D3190D910A00E92F3B /* Final_TestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3D2190D910A00E92F3B /* Final_TestTests.m */; };
+		FC60C3E4190D917300E92F3B /* SpirographView.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3DD190D917300E92F3B /* SpirographView.m */; };
+		FC60C3E5190D917300E92F3B /* SpirographViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3DF190D917300E92F3B /* SpirographViewController.m */; };
+		FC60C3E6190D917300E92F3B /* HarmonigraphView.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3E1190D917300E92F3B /* HarmonigraphView.m */; };
+		FC60C3E7190D917300E92F3B /* kimage.png in Resources */ = {isa = PBXBuildFile; fileRef = FC60C3E2190D917300E92F3B /* kimage.png */; };
+		FC60C3E8190D917300E92F3B /* limage.png in Resources */ = {isa = PBXBuildFile; fileRef = FC60C3E3190D917300E92F3B /* limage.png */; };
+		FC60C3EE190D929F00E92F3B /* EASViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3EB190D929F00E92F3B /* EASViewController.m */; };
+		FC60C3EF190D929F00E92F3B /* EASView.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3ED190D929F00E92F3B /* EASView.m */; };
+		FC60C3F1190D92CE00E92F3B /* redframe.png in Resources */ = {isa = PBXBuildFile; fileRef = FC60C3F0190D92CE00E92F3B /* redframe.png */; };
+		FC60C401190D978C00E92F3B /* Card.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3F3190D978C00E92F3B /* Card.m */; };
+		FC60C402190D978C00E92F3B /* CardMatchingGame.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3F5190D978C00E92F3B /* CardMatchingGame.m */; };
+		FC60C403190D978C00E92F3B /* Deck.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3F7190D978C00E92F3B /* Deck.m */; };
+		FC60C404190D978C00E92F3B /* MatchingGameAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3F9190D978C00E92F3B /* MatchingGameAppDelegate.m */; };
+		FC60C405190D978C00E92F3B /* MatchingGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3FB190D978C00E92F3B /* MatchingGameViewController.m */; };
+		FC60C407190D978C00E92F3B /* PlayingCard.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C3FE190D978C00E92F3B /* PlayingCard.m */; };
+		FC60C408190D978C00E92F3B /* PlayingCardDeck.m in Sources */ = {isa = PBXBuildFile; fileRef = FC60C400190D978C00E92F3B /* PlayingCardDeck.m */; };
+		FC60C40A190D980E00E92F3B /* morback.png in Resources */ = {isa = PBXBuildFile; fileRef = FC60C409190D980E00E92F3B /* morback.png */; };
+		FC79E408190DB4B800CF980D /* cardtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = FC79E403190DB4B800CF980D /* cardtabbaritem.png */; };
+		FC79E409190DB4B800CF980D /* ORIGINALetchtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = FC79E404190DB4B800CF980D /* ORIGINALetchtabbaritem.png */; };
+		FC79E40A190DB4B800CF980D /* finalexam120x120.png in Resources */ = {isa = PBXBuildFile; fileRef = FC79E405190DB4B800CF980D /* finalexam120x120.png */; };
+		FC79E40B190DB4B800CF980D /* spirotabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = FC79E406190DB4B800CF980D /* spirotabbaritem.png */; };
+		FC79E40C190DB4B800CF980D /* tabbaritem1.png in Resources */ = {isa = PBXBuildFile; fileRef = FC79E407190DB4B800CF980D /* tabbaritem1.png */; };
+		FC79E410190DB88800CF980D /* etchtabbaritem.png in Resources */ = {isa = PBXBuildFile; fileRef = FC79E40F190DB88800CF980D /* etchtabbaritem.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,27 +55,57 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FC60C3A1190D910900E92F3B /* Final Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Final Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC60C3A1190D910900E92F3B /* FinalExam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalExam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC60C3A4190D910900E92F3B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FC60C3A6190D910900E92F3B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		FC60C3A8190D910900E92F3B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		FC60C3AC190D910900E92F3B /* Final Test-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Final Test-Info.plist"; sourceTree = "<group>"; };
+		FC60C3AC190D910900E92F3B /* FinalExam-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FinalExam-Info.plist"; sourceTree = "<group>"; };
 		FC60C3AE190D910900E92F3B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FC60C3B0190D910900E92F3B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FC60C3B2190D910900E92F3B /* Final Test-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Final Test-Prefix.pch"; sourceTree = "<group>"; };
+		FC60C3B2190D910900E92F3B /* FinalExam-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FinalExam-Prefix.pch"; sourceTree = "<group>"; };
 		FC60C3B3190D910900E92F3B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FC60C3B4190D910900E92F3B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		FC60C3B7190D910900E92F3B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FC60C3B9190D910900E92F3B /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
-		FC60C3BA190D910900E92F3B /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
-		FC60C3BC190D910900E92F3B /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		FC60C3BD190D910900E92F3B /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		FC60C3BF190D910900E92F3B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		FC60C3C5190D910A00E92F3B /* Final TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Final TestTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FC60C3C5190D910A00E92F3B /* FinalExamTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinalExamTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC60C3C6190D910A00E92F3B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		FC60C3CE190D910A00E92F3B /* Final TestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Final TestTests-Info.plist"; sourceTree = "<group>"; };
+		FC60C3CE190D910A00E92F3B /* FinalExamTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FinalExamTests-Info.plist"; sourceTree = "<group>"; };
 		FC60C3D0190D910A00E92F3B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FC60C3D2190D910A00E92F3B /* Final_TestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Final_TestTests.m; sourceTree = "<group>"; };
+		FC60C3DC190D917300E92F3B /* SpirographView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographView.h; sourceTree = "<group>"; };
+		FC60C3DD190D917300E92F3B /* SpirographView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographView.m; sourceTree = "<group>"; };
+		FC60C3DE190D917300E92F3B /* SpirographViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpirographViewController.h; sourceTree = "<group>"; };
+		FC60C3DF190D917300E92F3B /* SpirographViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpirographViewController.m; sourceTree = "<group>"; };
+		FC60C3E0190D917300E92F3B /* HarmonigraphView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HarmonigraphView.h; sourceTree = "<group>"; };
+		FC60C3E1190D917300E92F3B /* HarmonigraphView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HarmonigraphView.m; sourceTree = "<group>"; };
+		FC60C3E2190D917300E92F3B /* kimage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kimage.png; sourceTree = "<group>"; };
+		FC60C3E3190D917300E92F3B /* limage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = limage.png; sourceTree = "<group>"; };
+		FC60C3EA190D929F00E92F3B /* EASViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EASViewController.h; sourceTree = "<group>"; };
+		FC60C3EB190D929F00E92F3B /* EASViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EASViewController.m; sourceTree = "<group>"; };
+		FC60C3EC190D929F00E92F3B /* EASView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EASView.h; sourceTree = "<group>"; };
+		FC60C3ED190D929F00E92F3B /* EASView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EASView.m; sourceTree = "<group>"; };
+		FC60C3F0190D92CE00E92F3B /* redframe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = redframe.png; path = ../redframe.png; sourceTree = "<group>"; };
+		FC60C3F2190D978C00E92F3B /* Card.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Card.h; sourceTree = "<group>"; };
+		FC60C3F3190D978C00E92F3B /* Card.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Card.m; sourceTree = "<group>"; };
+		FC60C3F4190D978C00E92F3B /* CardMatchingGame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardMatchingGame.h; sourceTree = "<group>"; };
+		FC60C3F5190D978C00E92F3B /* CardMatchingGame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardMatchingGame.m; sourceTree = "<group>"; };
+		FC60C3F6190D978C00E92F3B /* Deck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Deck.h; sourceTree = "<group>"; };
+		FC60C3F7190D978C00E92F3B /* Deck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Deck.m; sourceTree = "<group>"; };
+		FC60C3F8190D978C00E92F3B /* MatchingGameAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchingGameAppDelegate.h; sourceTree = "<group>"; };
+		FC60C3F9190D978C00E92F3B /* MatchingGameAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchingGameAppDelegate.m; sourceTree = "<group>"; };
+		FC60C3FA190D978C00E92F3B /* MatchingGameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchingGameViewController.h; sourceTree = "<group>"; };
+		FC60C3FB190D978C00E92F3B /* MatchingGameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchingGameViewController.m; sourceTree = "<group>"; };
+		FC60C3FD190D978C00E92F3B /* PlayingCard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCard.h; sourceTree = "<group>"; };
+		FC60C3FE190D978C00E92F3B /* PlayingCard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCard.m; sourceTree = "<group>"; };
+		FC60C3FF190D978C00E92F3B /* PlayingCardDeck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayingCardDeck.h; sourceTree = "<group>"; };
+		FC60C400190D978C00E92F3B /* PlayingCardDeck.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayingCardDeck.m; sourceTree = "<group>"; };
+		FC60C409190D980E00E92F3B /* morback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = morback.png; path = ../morback.png; sourceTree = "<group>"; };
+		FC79E403190DB4B800CF980D /* cardtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cardtabbaritem.png; sourceTree = SOURCE_ROOT; };
+		FC79E404190DB4B800CF980D /* ORIGINALetchtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ORIGINALetchtabbaritem.png; sourceTree = SOURCE_ROOT; };
+		FC79E405190DB4B800CF980D /* finalexam120x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = finalexam120x120.png; sourceTree = SOURCE_ROOT; };
+		FC79E406190DB4B800CF980D /* spirotabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spirotabbaritem.png; sourceTree = SOURCE_ROOT; };
+		FC79E407190DB4B800CF980D /* tabbaritem1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tabbaritem1.png; sourceTree = SOURCE_ROOT; };
+		FC79E40F190DB88800CF980D /* etchtabbaritem.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = etchtabbaritem.png; path = ../etchtabbaritem.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +145,8 @@
 		FC60C3A2190D910900E92F3B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FC60C3A1190D910900E92F3B /* Final Test.app */,
-				FC60C3C5190D910A00E92F3B /* Final TestTests.xctest */,
+				FC60C3A1190D910900E92F3B /* FinalExam.app */,
+				FC60C3C5190D910A00E92F3B /* FinalExamTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -115,13 +165,18 @@
 		FC60C3AA190D910900E92F3B /* Final Test */ = {
 			isa = PBXGroup;
 			children = (
+				FC60C40C190D9FB000E92F3B /* Etch-A-Sketch */,
+				FC60C3E9190D91E100E92F3B /* Spirograph */,
+				FC60C40B190D989A00E92F3B /* Card Game */,
 				FC60C3B3190D910900E92F3B /* AppDelegate.h */,
 				FC60C3B4190D910900E92F3B /* AppDelegate.m */,
 				FC60C3B6190D910900E92F3B /* Main.storyboard */,
-				FC60C3B9190D910900E92F3B /* FirstViewController.h */,
-				FC60C3BA190D910900E92F3B /* FirstViewController.m */,
-				FC60C3BC190D910900E92F3B /* SecondViewController.h */,
-				FC60C3BD190D910900E92F3B /* SecondViewController.m */,
+				FC79E403190DB4B800CF980D /* cardtabbaritem.png */,
+				FC79E404190DB4B800CF980D /* ORIGINALetchtabbaritem.png */,
+				FC79E405190DB4B800CF980D /* finalexam120x120.png */,
+				FC79E406190DB4B800CF980D /* spirotabbaritem.png */,
+				FC79E407190DB4B800CF980D /* tabbaritem1.png */,
+				FC79E40F190DB88800CF980D /* etchtabbaritem.png */,
 				FC60C3BF190D910900E92F3B /* Images.xcassets */,
 				FC60C3AB190D910900E92F3B /* Supporting Files */,
 			);
@@ -131,10 +186,10 @@
 		FC60C3AB190D910900E92F3B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FC60C3AC190D910900E92F3B /* Final Test-Info.plist */,
+				FC60C3AC190D910900E92F3B /* FinalExam-Info.plist */,
 				FC60C3AD190D910900E92F3B /* InfoPlist.strings */,
 				FC60C3B0190D910900E92F3B /* main.m */,
-				FC60C3B2190D910900E92F3B /* Final Test-Prefix.pch */,
+				FC60C3B2190D910900E92F3B /* FinalExam-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -151,18 +206,67 @@
 		FC60C3CD190D910A00E92F3B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				FC60C3CE190D910A00E92F3B /* Final TestTests-Info.plist */,
+				FC60C3CE190D910A00E92F3B /* FinalExamTests-Info.plist */,
 				FC60C3CF190D910A00E92F3B /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		FC60C3E9190D91E100E92F3B /* Spirograph */ = {
+			isa = PBXGroup;
+			children = (
+				FC60C3DC190D917300E92F3B /* SpirographView.h */,
+				FC60C3DD190D917300E92F3B /* SpirographView.m */,
+				FC60C3DE190D917300E92F3B /* SpirographViewController.h */,
+				FC60C3DF190D917300E92F3B /* SpirographViewController.m */,
+				FC60C3E0190D917300E92F3B /* HarmonigraphView.h */,
+				FC60C3E1190D917300E92F3B /* HarmonigraphView.m */,
+				FC60C3E2190D917300E92F3B /* kimage.png */,
+				FC60C3E3190D917300E92F3B /* limage.png */,
+			);
+			name = Spirograph;
+			sourceTree = "<group>";
+		};
+		FC60C40B190D989A00E92F3B /* Card Game */ = {
+			isa = PBXGroup;
+			children = (
+				FC60C409190D980E00E92F3B /* morback.png */,
+				FC60C3F2190D978C00E92F3B /* Card.h */,
+				FC60C3F3190D978C00E92F3B /* Card.m */,
+				FC60C3F4190D978C00E92F3B /* CardMatchingGame.h */,
+				FC60C3F5190D978C00E92F3B /* CardMatchingGame.m */,
+				FC60C3F6190D978C00E92F3B /* Deck.h */,
+				FC60C3F7190D978C00E92F3B /* Deck.m */,
+				FC60C3F8190D978C00E92F3B /* MatchingGameAppDelegate.h */,
+				FC60C3F9190D978C00E92F3B /* MatchingGameAppDelegate.m */,
+				FC60C3FA190D978C00E92F3B /* MatchingGameViewController.h */,
+				FC60C3FB190D978C00E92F3B /* MatchingGameViewController.m */,
+				FC60C3FD190D978C00E92F3B /* PlayingCard.h */,
+				FC60C3FE190D978C00E92F3B /* PlayingCard.m */,
+				FC60C3FF190D978C00E92F3B /* PlayingCardDeck.h */,
+				FC60C400190D978C00E92F3B /* PlayingCardDeck.m */,
+			);
+			name = "Card Game";
+			sourceTree = "<group>";
+		};
+		FC60C40C190D9FB000E92F3B /* Etch-A-Sketch */ = {
+			isa = PBXGroup;
+			children = (
+				FC60C3F0190D92CE00E92F3B /* redframe.png */,
+				FC60C3EA190D929F00E92F3B /* EASViewController.h */,
+				FC60C3EB190D929F00E92F3B /* EASViewController.m */,
+				FC60C3EC190D929F00E92F3B /* EASView.h */,
+				FC60C3ED190D929F00E92F3B /* EASView.m */,
+			);
+			name = "Etch-A-Sketch";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FC60C3A0190D910900E92F3B /* Final Test */ = {
+		FC60C3A0190D910900E92F3B /* FinalExam */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC60C3D6190D910A00E92F3B /* Build configuration list for PBXNativeTarget "Final Test" */;
+			buildConfigurationList = FC60C3D6190D910A00E92F3B /* Build configuration list for PBXNativeTarget "FinalExam" */;
 			buildPhases = (
 				FC60C39D190D910900E92F3B /* Sources */,
 				FC60C39E190D910900E92F3B /* Frameworks */,
@@ -172,14 +276,14 @@
 			);
 			dependencies = (
 			);
-			name = "Final Test";
+			name = FinalExam;
 			productName = "Final Test";
-			productReference = FC60C3A1190D910900E92F3B /* Final Test.app */;
+			productReference = FC60C3A1190D910900E92F3B /* FinalExam.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FC60C3C4190D910A00E92F3B /* Final TestTests */ = {
+		FC60C3C4190D910A00E92F3B /* FinalExamTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FC60C3D9190D910A00E92F3B /* Build configuration list for PBXNativeTarget "Final TestTests" */;
+			buildConfigurationList = FC60C3D9190D910A00E92F3B /* Build configuration list for PBXNativeTarget "FinalExamTests" */;
 			buildPhases = (
 				FC60C3C1190D910A00E92F3B /* Sources */,
 				FC60C3C2190D910A00E92F3B /* Frameworks */,
@@ -190,9 +294,9 @@
 			dependencies = (
 				FC60C3CB190D910A00E92F3B /* PBXTargetDependency */,
 			);
-			name = "Final TestTests";
+			name = FinalExamTests;
 			productName = "Final TestTests";
-			productReference = FC60C3C5190D910A00E92F3B /* Final TestTests.xctest */;
+			productReference = FC60C3C5190D910A00E92F3B /* FinalExamTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -209,7 +313,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FC60C39C190D910900E92F3B /* Build configuration list for PBXProject "Final Test" */;
+			buildConfigurationList = FC60C39C190D910900E92F3B /* Build configuration list for PBXProject "FinalExam" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -222,8 +326,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FC60C3A0190D910900E92F3B /* Final Test */,
-				FC60C3C4190D910A00E92F3B /* Final TestTests */,
+				FC60C3A0190D910900E92F3B /* FinalExam */,
+				FC60C3C4190D910A00E92F3B /* FinalExamTests */,
 			);
 		};
 /* End PBXProject section */
@@ -233,9 +337,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC60C3E8190D917300E92F3B /* limage.png in Resources */,
+				FC79E410190DB88800CF980D /* etchtabbaritem.png in Resources */,
 				FC60C3C0190D910900E92F3B /* Images.xcassets in Resources */,
+				FC79E40B190DB4B800CF980D /* spirotabbaritem.png in Resources */,
+				FC79E408190DB4B800CF980D /* cardtabbaritem.png in Resources */,
 				FC60C3AF190D910900E92F3B /* InfoPlist.strings in Resources */,
+				FC79E40A190DB4B800CF980D /* finalexam120x120.png in Resources */,
+				FC79E40C190DB4B800CF980D /* tabbaritem1.png in Resources */,
 				FC60C3B8190D910900E92F3B /* Main.storyboard in Resources */,
+				FC60C40A190D980E00E92F3B /* morback.png in Resources */,
+				FC60C3E7190D917300E92F3B /* kimage.png in Resources */,
+				FC79E409190DB4B800CF980D /* ORIGINALetchtabbaritem.png in Resources */,
+				FC60C3F1190D92CE00E92F3B /* redframe.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,10 +368,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC60C3BE190D910900E92F3B /* SecondViewController.m in Sources */,
+				FC60C408190D978C00E92F3B /* PlayingCardDeck.m in Sources */,
+				FC60C3EF190D929F00E92F3B /* EASView.m in Sources */,
+				FC60C402190D978C00E92F3B /* CardMatchingGame.m in Sources */,
+				FC60C407190D978C00E92F3B /* PlayingCard.m in Sources */,
+				FC60C404190D978C00E92F3B /* MatchingGameAppDelegate.m in Sources */,
+				FC60C3E6190D917300E92F3B /* HarmonigraphView.m in Sources */,
+				FC60C403190D978C00E92F3B /* Deck.m in Sources */,
+				FC60C3E4190D917300E92F3B /* SpirographView.m in Sources */,
 				FC60C3B5190D910900E92F3B /* AppDelegate.m in Sources */,
-				FC60C3BB190D910900E92F3B /* FirstViewController.m in Sources */,
+				FC60C401190D978C00E92F3B /* Card.m in Sources */,
 				FC60C3B1190D910900E92F3B /* main.m in Sources */,
+				FC60C3EE190D929F00E92F3B /* EASViewController.m in Sources */,
+				FC60C3E5190D917300E92F3B /* SpirographViewController.m in Sources */,
+				FC60C405190D978C00E92F3B /* MatchingGameViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,7 +398,7 @@
 /* Begin PBXTargetDependency section */
 		FC60C3CB190D910A00E92F3B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FC60C3A0190D910900E92F3B /* Final Test */;
+			target = FC60C3A0190D910900E92F3B /* FinalExam */;
 			targetProxy = FC60C3CA190D910A00E92F3B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -385,9 +509,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Final Test/Final Test-Prefix.pch";
-				INFOPLIST_FILE = "Final Test/Final Test-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Final Test/FinalExam-Prefix.pch";
+				INFOPLIST_FILE = "Final Test/FinalExam-Info.plist";
+				PRODUCT_NAME = FinalExam;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -398,9 +522,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "Final Test/Final Test-Prefix.pch";
-				INFOPLIST_FILE = "Final Test/Final Test-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "Final Test/FinalExam-Prefix.pch";
+				INFOPLIST_FILE = "Final Test/FinalExam-Info.plist";
+				PRODUCT_NAME = FinalExam;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -421,8 +545,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "Final TestTests/Final TestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Final TestTests/FinalExamTests-Info.plist";
+				PRODUCT_NAME = FinalExamTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -440,8 +564,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Final Test/Final Test-Prefix.pch";
-				INFOPLIST_FILE = "Final TestTests/Final TestTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Final TestTests/FinalExamTests-Info.plist";
+				PRODUCT_NAME = FinalExamTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -450,7 +574,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FC60C39C190D910900E92F3B /* Build configuration list for PBXProject "Final Test" */ = {
+		FC60C39C190D910900E92F3B /* Build configuration list for PBXProject "FinalExam" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC60C3D4190D910A00E92F3B /* Debug */,
@@ -459,21 +583,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FC60C3D6190D910A00E92F3B /* Build configuration list for PBXNativeTarget "Final Test" */ = {
+		FC60C3D6190D910A00E92F3B /* Build configuration list for PBXNativeTarget "FinalExam" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC60C3D7190D910A00E92F3B /* Debug */,
 				FC60C3D8190D910A00E92F3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		FC60C3D9190D910A00E92F3B /* Build configuration list for PBXNativeTarget "Final TestTests" */ = {
+		FC60C3D9190D910A00E92F3B /* Build configuration list for PBXNativeTarget "FinalExamTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FC60C3DA190D910A00E92F3B /* Debug */,
 				FC60C3DB190D910A00E92F3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
